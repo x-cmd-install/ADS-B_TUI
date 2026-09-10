@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4418477,
       "digest": "sha256:fb529596787431d0c73c44aca868812407a15009b4b6c935e4195d88b2ee8b76",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-06-16T14:15:00Z",
       "updated_at": "2026-06-16T14:15:01Z",
       "browser_download_url": "https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-linux-x64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4112525,
       "digest": "sha256:62e759b7f3bcc13f6bdb52c0c2dc0e3da3a324eda0e9c29447f7998e32f2dac9",
-      "download_count": 58,
+      "download_count": 60,
       "created_at": "2026-06-16T14:15:00Z",
       "updated_at": "2026-06-16T14:15:01Z",
       "browser_download_url": "https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-arm64.tar.gz"
