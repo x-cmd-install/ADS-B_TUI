@@ -4,7 +4,7 @@
 
 A modern, fast, and user-friendly terminal interface for tracking aircraft using ADS-B data. Display real-time flight information in a beautiful table format with country flags, routes, and more.
 
-![ADS-B_TUI](https://repo.x-cmd.io/ADS-B_TUI.svg)
+![ADS-B_TUI](https://repo.x-cmd.io/ADS-B_TUI.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,14 @@ x install ADS-B_TUI
 - **最新版本**: `v0.2.1` (2026-06-16)
 - **最近提交**: 2026-06-16
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-06-16T14:09:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [adsb-tui-linux-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
+| [adsb-tui-macos-arm64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [adsb-tui-macos-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-x64.tar.gz) | 4.1 MiB | `native/darwin/x64` |
 
 ## 流行度
 
@@ -59,4 +66,4 @@ ADS-B_TUI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:03:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:18Z._
