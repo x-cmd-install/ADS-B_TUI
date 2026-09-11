@@ -12,6 +12,16 @@ A modern, fast, and user-friendly terminal interface for tracking aircraft using
 x install ADS-B_TUI
 ```
 
+## 代码洞察
+
+合计: **11,229** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 11,193 | 22 | 851 | 16 |
+| Toml | 36 | 1 | 3 | 2 |
+| Markdown | 0 | 779 | 330 | 6 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/j4v3l/ADS-B_TUI>
@@ -22,14 +32,6 @@ x install ADS-B_TUI
 - **最新版本**: `v0.2.1` (2026-06-16)
 - **最近提交**: 2026-06-16
 - **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [adsb-tui-linux-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
-| [adsb-tui-macos-arm64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [adsb-tui-macos-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-x64.tar.gz) | 4.1 MiB | `native/darwin/x64` |
 
 ## 流行度
 
@@ -43,19 +45,20 @@ x install ADS-B_TUI
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 3 | 0 | 1 | 1 | 4 |
-| 360d | 2025-09-15 | 3 | 18 | 0 | 3 | 1 | 81 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 1 | 3 | 0 | 0 | 1 | 4 |
+| last180d | 2026-03-15 | 2 | 4 | 0 | 3 | 1 | 7 |
+| 360d | 2025-09-16 | 3 | 18 | 0 | 3 | 1 | 81 |
+| last720d | 2024-09-21 | 3 | 18 | 0 | 3 | 1 | 101 |
 
-## 代码规模
+## Release 资产
 
-合计: **11,229** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 11,193 | 22 | 851 | 16 |
-| Toml | 36 | 1 | 3 | 2 |
-| Markdown | 0 | 779 | 330 | 6 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [adsb-tui-linux-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
+| [adsb-tui-macos-arm64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [adsb-tui-macos-x64.tar.gz](https://github.com/j4v3l/ADS-B_TUI/releases/download/v0.2.1/adsb-tui-macos-x64.tar.gz) | 4.1 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -66,4 +69,4 @@ ADS-B_TUI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:18Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:20:38Z._
