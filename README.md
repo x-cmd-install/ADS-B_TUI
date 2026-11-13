@@ -35,7 +35,7 @@ Total: **11,229** lines of code across **24** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 112 · **Forks**: 5 · **Open issues**: 4 · **Contributors**: 2
+- **Stars**: 114 · **Forks**: 5 · **Open issues**: 4 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **11,229** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-16 | 1 | 3 | 0 | 1 | 1 | 4 |
-| 360d | 2025-11-17 | 3 | 18 | 0 | 3 | 1 | 81 |
-| last720d | 2024-11-22 | 3 | 18 | 0 | 3 | 1 | 101 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-17 | 1 | 3 | 0 | 1 | 1 | 4 |
+| 360d | 2025-11-18 | 3 | 18 | 0 | 3 | 1 | 81 |
+| last720d | 2024-11-23 | 3 | 18 | 0 | 3 | 1 | 101 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for ADS-B_TUI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:27:01Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:52:33Z._
